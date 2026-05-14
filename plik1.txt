@@ -1,5 +1,6 @@
-Moj-pierwszy-tekst-01
+nowy branch Moj-pierwszy-tekst-0x
 A teraz dopisuję kolejną linijkę tekstu
 i kolejna linijka tekstu
 i kolejna opcja
 i kolejna zmiana
+nowy branch
