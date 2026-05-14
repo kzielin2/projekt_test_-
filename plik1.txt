@@ -4,3 +4,4 @@ i kolejna linijka tekstu
 i kolejna opcja
 i kolejna zmiana
 nowy branch
+dodałem nową galaź-2
