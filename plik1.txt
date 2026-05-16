@@ -5,3 +5,6 @@ i kolejna opcja
 i kolejna zmiana
 nowy branch
 a teraz zmodyfikowałem z poziomu github
+
+
+wprowadzam zmiany w związku z rozwojem nr 12
