@@ -9,3 +9,4 @@ a teraz zmodyfikowałem z poziomu github
 
 wprowadzam zmiany w związku z rozwojem nr 12
 wprowadzam zmiany w związku z rozwojem nr 13
+próbuje zrobić modyfikację kolidującą
